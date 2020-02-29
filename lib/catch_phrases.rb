@@ -12,7 +12,7 @@ def toadstool
 end
 
 
-def all_phrases
+def all_phrases(arg)
   mario()
   toadstool()
   puts "It's Dangerous To Go Alone! Take This."
